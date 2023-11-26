@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarleenKaur4733.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently improving my full stack skills.
-- 💞️ I’m looking to work in startups.
+- 💞️ I’m looking to work as SDE or SWE.
 - 📫 Gmail me at harleen7814@gmail.com.
 
 <!---
